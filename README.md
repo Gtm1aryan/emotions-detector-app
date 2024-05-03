@@ -12,4 +12,6 @@ Once the app detects your face it do these things:
 - It pridect the probability of the outcome in %.
 - It print result using green color same as the box color.
 ## Taking a look inside
-![App demo image]([https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo.png](https://github.com/Gtm1aryan/emotions-detector-app/blob/main/Capture.PNG))
+![App demo image](https://github.com/Gtm1aryan/emotions-detector-app/blob/main/Capture.PNG)
+
+![App demo image](https://github.com/Gtm1aryan/emotions-detector-app/blob/main/Capture.PNG)
