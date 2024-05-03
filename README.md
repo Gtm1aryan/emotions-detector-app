@@ -14,4 +14,15 @@ Once the app detects your face it do these things:
 ## Taking a look inside
 ![App demo image](https://github.com/Gtm1aryan/emotions-detector-app/blob/main/Capture.PNG)
 
-![App demo image](https://github.com/Gtm1aryan/emotions-detector-app/blob/main/Capture.PNG)
+![App demo image](https://github.com/Gtm1aryan/emotions-detector-app/blob/main/Capture1.PNG)
+
+## Detectable expressions
+- Happy:  😀
+- Sad:  😥
+- Angry:  😠
+
+## Browsers support 
+
+| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)<br/>Safari |
+| --------- | --------- | --------- |
+| last version| last version| last version 
