@@ -10,4 +10,6 @@ The main objective was very simple, to display emotions based on the facial expr
 Once the app detects your face it do these things:
 - It scan the face in image by haarcascade_frontalface [Link](https://github.com/enespolat25/OpenCV-1-2-3-4/blob/master/haarcascade-frontalface-default.xml)
 - It pridect the probability of the outcome in %.
-- It print result using green color same as the box color. 
+- It print result using green color same as the box color.
+## Taking a look inside
+![App demo image](https://github.com/louiejancevski/FacialEmotionDetector/blob/master/public/demo.png)
